@@ -1,0 +1,13 @@
+{
+  "resources/ts/main.ts": {
+    "file": "assets/main.0b1ac208.js",
+    "src": "resources/ts/main.ts",
+    "isEntry": true,
+    "imports": [
+      "_http.53dd0518.js"
+    ]
+  },
+  "_http.53dd0518.js": {
+    "file": "assets/http.53dd0518.js"
+  }
+}
